@@ -6,7 +6,7 @@
 ██║  ██║ ╚██████╔╝  ╚██████╔╝
 ╚═╝  ╚═╝  ╚═════╝    ╚══════╝
                                                           
-.
+
 
 RCG is a Python-based tookit that helps with reconnaissance tasks by installing and managing useful tools in one place
 
