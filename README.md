@@ -45,6 +45,8 @@ type the following commands in your linux terminal
 
 " cd RCG  "
 
+" cd RCG " (you need to type this command again)
+
 " python3 RCG.py "
 
 
