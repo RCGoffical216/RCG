@@ -29,7 +29,6 @@ after that type this command
 " sudo apt update && sudo apt full-upgrade -y "
 
 restart your computer after go back to terminal then open kali linux an type this command
-"                                       "
 
 installation linux Ubuntu/Debain/kali linux
 
