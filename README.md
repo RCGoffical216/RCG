@@ -12,25 +12,7 @@ RCG is a Python-based tookit that helps with reconnaissance tasks by installing 
 
 Made By definitelynotaRussianspy (ilikestoves)
 
-WSL Install kali linux 
-
-open powershell and type the command
-
-" wsl --install "
-
-then type
-
-" wsl --install -d kali-linux "  
-
-(it will ask you to make a username and password make one)
-
-after that type this command
-
-" sudo apt update && sudo apt full-upgrade -y "
-
-restart your computer after go back to terminal
-
-installation linux Ubuntu/Debain/kali linux
+installation linux Ubuntu/Debain/
 
 type the following commands in your linux terminal
 
